@@ -9,7 +9,14 @@ Fokus utama repository ini adalah untuk mempelari library dasar yang digunakan d
 * numpy
 * pandas
 * matplotlib
+* seaborn
 
 ## Catatan
 
 Repository ini dibuat sebagai learning journal untuk mendokumentasikan proses belajar data science dan machine learning. 
+
+## Reference
+
+* w3schools
+* Buku analisis data dengan python
+* https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_

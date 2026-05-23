@@ -20,3 +20,4 @@ Repository ini dibuat sebagai learning journal untuk mendokumentasikan proses be
 * w3schools
 * Buku analisis data dengan python
 * https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+* https://youtu.be/oLFII_HOjGA?si=khFIid0Lfx9cAVxQ

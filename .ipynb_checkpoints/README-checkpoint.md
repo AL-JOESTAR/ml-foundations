@@ -18,5 +18,18 @@ Repository ini dibuat sebagai learning journal untuk mendokumentasikan proses be
 ## Reference
 
 * w3schools
-* Buku analisis data dengan python
-* https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+```properties
+https://www.w3schools.com/
+```
+* Buku :
+```properties
+Analysis data dengan python
+```
+* Youtube Belajar Data Analyst
+```properties
+https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+```
+* Youtube Machine Learning
+```properties
+https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+```

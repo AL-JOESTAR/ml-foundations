@@ -29,3 +29,7 @@ Analysis data dengan python
 ```properties
 https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
 ```
+* Youtube Machine Learning
+```properties
+https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+```

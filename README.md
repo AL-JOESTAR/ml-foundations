@@ -31,5 +31,5 @@ https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
 ```
 * Youtube Machine Learning
 ```properties
-https://youtu.be/oLFII_HOjGA?si=pni15DQVZQyg9DU_
+https://youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E&si=UB3ApLdJFmTD4L0V
 ```
